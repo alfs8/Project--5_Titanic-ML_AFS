@@ -1,4 +1,4 @@
-# Titanic Survival Prediction 🚢💡
+# Titanic Survival Prediction 🚢
 
 This repository contains a machine learning project focused on supervised classification modelling using the Titanic dataset from Kaggle. The objective is to predict passenger survival based on personal and travel information.
 
